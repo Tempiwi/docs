@@ -1,31 +1,31 @@
 module.exports = {
-  product: "Raposas Docs",
+  product: "MedVideos Docs",
   pathPrefix: "",
   productLogoPathD: "",
-  contentRepo: "neelygenet/docs",
+  contentRepo: "tempiwi/docs",
   contentRepoFolder: "",
   externalLinks: [
     {
       title: "Voltar para o indexador",
-      url: "https://raposas.net"
+      url: "https://medvideos.su"
     },
     {
       title: "Ir para o Telegram",
-      url: "https://telegram.raposas.net"
+      url: "https://t.me/medcelvid"
     },
   ],
   search: {
-    indexName: "Raposas Docs",
+    indexName: "MedVideos Docs",
     apiKey: "",
     algoliaOptions: {
       facetFilters: ""
     },
   },
   siteMetadata: {
-    title: "Raposas Docs",
-    description: "Documentação oficial do Raposas.net",
-    author: "@NeelyGenet",
-    url: "https://raposas.net",
-    image: "https://raw.githubusercontent.com/neelygenet/docs/master/src/content/fox.png",
+    title: "MedVideos Docs",
+    description: "Documentação oficial do MedVideos",
+    author: "@Kiwifz",
+    url: "https://medvideos.su",
+    image: "https://raw.githubusercontent.com/Tempiwi/medvideos/main/images/fav.png",
   },
 }
