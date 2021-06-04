@@ -1,28 +1,24 @@
 ---
-title: Como doar
+title: Como usar criptomoedas
 order: 1
 type: 
 ---
 
-# Doe para o Raposas
+# Você pode adquirir suas criptomoedas de várias formas
 
-Manter o **Raposas** no ar, por muitas vezes, é um processo complicado que exige tempo de seus mantenedores. Em algumas situações, o Raposas pode necessitar de recursos financeiros para manter-se no ar, embora isso não seja uma regra.
+## Corretora
 
-Se você acredita que o indexador privado do Google Drive tem impactado sua vida positivamente a ponto de valer o seu dinheiro, por favor, considere fazer uma doação ao projeto. Não há valor mínimo e você pode doar com Pix, Cartão de Crédito, Cartão de Débito e Boleto Bancário.
+Comprando em uma Corretora como: [Bipa](https://bipa.app/), [Binance](https://www.binance.com/pt-BR), entre outras. Após efetuar o cadastro nessas corretoras você efetua uma transferência ou pix em R$ e compra suas criptomoedas com o dinheiro depositado.
 
-## Pix
+## Comprando diretamente de pessoas que vendem e compram criptomoedas (Peer to Peer ou P2P)
+Existe um catálogo de reputação de bons vendedores de criptomoedas. 
+É bem simples! Você encontra um vendendor de uma determinada moeda, entra em contato com ele e negocia diretamente.
 
-Nossa chave Pix: ```doe@raposas.net```
 
-## Cartão de Crédito, Débito e Boleto
-Você pode doar com Cartão de Crédito ou Boleto utilizando o Mercado Pago. Para isso, você deverá criar uma conta no [Mercado Pago](https://mercadopago.com.br) caso ainda não possua uma. Se você estiver no celular, poderá fazer este processo através do aplicativo Mercado Pago, disponível na Google Play Store e na App Store.
+### Instruções para comprar bitcoin na [Bipa](https://bipa.app/)
+1. No menu, procure pela opção "Depositar R$";
 
-Após criar a conta, siga os passos abaixo de acordo com o seu dispositivo.
-
-### Instruções para celular e tablet
-1. No menu, procure pela opção "Pagar";
-
-![](https://1.bp.blogspot.com/-CxK7ZUmIm_k/YG8gMO2ZnCI/AAAAAAAAACY/f7bZI-RZJKs9xgfubHsc5hOsyzmOMwH6QCLcBGAsYHQ/w360-h640/1mob.png)
+![](https://raw.githubusercontent.com/Tempiwi/docs/main/src/content/bipa1.PNG)
 
 2. Selecione a opção "Enviar dinheiro";
 
