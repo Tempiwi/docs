@@ -10,7 +10,7 @@ type: overview
 
 A sua privacidade é importante para nós. É política do MedVideos respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no nosso site e outros sites que possuímos e operamos.
 
-Nós não solicitamos informações pessoais em nenhuma hipótese. Caso você se depare com qualquer sistema do Raposas que solicite quaisquer informações pessoais, interrompa sua atividade imediatamente, pois se trata de um sistema fake ou forjado.
+Nós não solicitamos informações pessoais em nenhuma hipótese. Caso você se depare com qualquer sistema do MedVideos que solicite quaisquer informações pessoais, interrompa sua atividade imediatamente, pois se trata de um sistema fake ou forjado.
 
 Uma vez que não coletamos informações pessoais, não compartilhamos nenhuma informação sua publicamente ou com terceiros.
 
