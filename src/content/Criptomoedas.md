@@ -6,13 +6,11 @@ type:
 
 # Você pode adquirir suas criptomoedas de várias formas
 
+
+
 ## Corretora
 
 Comprando em uma Corretora como: [Bipa](https://bipa.app/), [Binance](https://www.binance.com/pt-BR), entre outras. Após efetuar o cadastro nessas corretoras você efetua uma transferência ou pix em R$ e compra suas criptomoedas com o dinheiro depositado.
-
-## Comprando diretamente de pessoas que vendem e compram criptomoedas (Peer to Peer ou P2P)
-Existe um catálogo de reputação de bons vendedores de criptomoedas. 
-É bem simples! Você encontra um vendendor de uma determinada moeda, entra em contato com ele e negocia diretamente.
 
 
 ### Instruções para comprar bitcoin na [Bipa](https://bipa.app/)
@@ -34,6 +32,11 @@ Existe um catálogo de reputação de bons vendedores de criptomoedas.
 
 5. Em seguida, você verá uma tela para inserir o valor desejado e em sequência uma tela de pagamento, onde você poderá inserir seus dados de cartão de crédito ou solicitar a emissão de um boleto. Você também pode selecionar a opção "Pagar em lotérica", onde você poderá realizar o pagamento na lotérica tendo apenas o código do Mercado Pago, sem a necessidade de boleto.
 6. Obrigada por doar! Sua contribuição ajuda a manter o Raposas online! Se ainda não faz parte, junte-se à comunidade no Telegram [clicando aqui](https://telegram.raposas.net).
+
+
+## Comprando diretamente de pessoas que vendem e compram criptomoedas (Peer to Peer ou P2P)
+Existe um catálogo de reputação de bons vendedores de criptomoedas. 
+É bem simples! Você encontra um vendendor de uma determinada moeda, entra em contato com ele e negocia diretamente.
 
 ### Instruções para computador
 1. No menu, selecione a opção "Enviar dinheiro".
