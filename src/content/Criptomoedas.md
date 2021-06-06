@@ -1,6 +1,6 @@
 ---
 title: Como comprar criptomoedas
-order: 4
+order: 3
 type: 
 ---
 
