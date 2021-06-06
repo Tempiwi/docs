@@ -26,6 +26,9 @@ Comprando em uma Corretora como: [Bipa](https://bipa.app/), [Binance](https://ww
 ## Comprando diretamente de pessoas que vendem e compram criptomoedas (Peer to Peer ou P2P)
 Existe um catálogo de reputação de bons vendedores de criptomoedas. 
 É bem simples! Você encontra um vendendor de uma determinada moeda, entra em contato com ele e negocia diretamente.
+
 [Catálogo P2P](https://catalogop2p.com/)
+
 [PaxFul](https://paxful.com/pt-br)
+
 [LocalBitcoins](https://localbitcoins.com/)
