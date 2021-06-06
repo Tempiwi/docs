@@ -24,8 +24,4 @@ __Observação:__ Todo o material presente no site é de acesso gratuito!
 * Entre no nosso canal do [Telegram](https://t.me/medcelvid) para receber os avisos importantes.
 * Não usamos WhatsApp!
   
----
-
-Essa é uma versão modificada do [Cloudflare Docs Engine](https://developers.cloudflare.com/docs-engine/) para funcionar com o [Cloudflare Pages](https://pages.cloudflare.com/).
-
 </ContentColumn>
