@@ -14,7 +14,7 @@ Comprando em uma Corretora como: [Bipa](https://bipa.app/), [Binance](https://ww
 
 
 ### Instruções para comprar bitcoin na [Bipa](https://bipa.app/) 
-<Aside>(A Bipa tem suporte a transferências via Lightning Network, o que torna a taxa quase 0)</Aside>
+<Aside>A Bipa tem suporte a transferências via Lightning Network, o que torna a taxa quase 0</Aside>
 1. No menu, procure pela opção "Depositar R$";
 
 2. Após validar a conta, você receberá os dados bancários da corretora e poderá efetuar a transferência;
